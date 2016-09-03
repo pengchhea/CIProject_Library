@@ -1,0 +1,42 @@
+{
+  "name": "metal",
+  "description": "metal bower dependencies",
+  "version": "0.0.0",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-mocks": "~1.4.x",
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.5.x",
+    "angular-resource": "~1.4.x",
+    "angular-animate": "~1.4.x",
+    "angular-loading-bar": "~0.8.0",
+    "angular-material": "~0.11.4",
+    "angular-messages": "~1.4.x",
+    "angular-local-storage": "~0.2.3",
+    "a0-angular-storage": "~0.0.13",
+    "angular-cookies": "~1.5.0",
+    "angular-bootstrap": "~1.2.4",
+    "moment": "^2.13.0",
+    "underscore": "^1.8.3",
+    "angular-sanitize": "^1.5.5",
+    "angular-filter": "^0.5.8",
+    "angular-perfect-scrollbar": "^0.0.4",
+    "angular-chosen-localytics": "^1.4.3",
+    "angular-touch": "^1.5.8"
+  },
+  "authors": [
+    "Rady Rin <rinrady@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "ngstorage": "^0.3.10"
+  }
+}
